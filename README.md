@@ -23,7 +23,7 @@ List the key features of your dashboard application.
 - Real-time data visualization
 - User-friendly interface
 - Customizable widgets/cards
-- ...
+
 
 ## Getting Started
 
@@ -38,14 +38,14 @@ List the key features of your dashboard application.
    ```bash
    git clone https://github.com/vreddy12345/my-dashboard-app.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd your-dashboard-app 
 
-Install Dependencies 
+3. Install Dependencies 
  
  npm install 
 
 Run the development server 
 npm start
-  
+
